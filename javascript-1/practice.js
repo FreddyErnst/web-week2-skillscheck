@@ -39,6 +39,8 @@ function lovesCodeChecker (x) {
 //////////////////PROBLEM 6////////////////////
 
 // Create a function called 'oddChecker' that takes in one parameter, num. Check to see if the number is even or odd. If it is odd, return 'the number is odd' or return 'the number is even' if it is even.
+
+//Code here
 function oddChecker (num) {
 	if (num % 2 === 0) {
 		return "the number is even";
@@ -46,8 +48,6 @@ function oddChecker (num) {
 		return "the number is odd";
 	}
 }
-//Code here
-
 //////////////////PROBLEM 7////////////////////
 
 // Create a function called 'iLove' that takes in two parameters, name which will be a string  and love which will be a string of something you love. Have the function take the two parameters and retrun a string that says "NAMEPARAM loves LOVEPARAM" with the appropriate parameters in the string. e.g. "Bryan loves skateboarding"

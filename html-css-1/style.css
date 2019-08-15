@@ -5,10 +5,6 @@ body {
 
 nav {
     background-color: grey;
-  
-    
-    
-
 }
 
 .ul {
@@ -31,7 +27,7 @@ margin: 0 0;
 display: flex;
 justify-content: space-around;
 width: 25vw;
-font-size: 15px;
+font-size: 17px;
 
 
 
@@ -39,7 +35,7 @@ font-size: 15px;
 }
 
 .youKnow {
-    height: 40vh;
+    height: 50vh;
     width: 100vw;
     background-color: black;
     margin-top: 0px;
@@ -70,7 +66,7 @@ font-size: 15px;
 .teal-square1, .teal-square2, .teal-square3 {
     height: 28vh;
     width: 20vw;
-    background-color: lightgreen;
+    background-color: turquoise;
     border-radius: 5%;
  
 }
